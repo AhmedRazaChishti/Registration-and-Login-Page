@@ -1,0 +1,4 @@
+ahmed*ahmed7@gmail.com*123
+sana *cd "d:\Programming\C++\Projects\registration and login info\" ; if ($?) { g++ login.cpp -o login } ; if ($?) { .\login }*cd "d:\Programming\C++\Projects\registration and login info\" ; if ($?) { g++ login.cpp -o login } ; if ($?) { .\login }
+sana fatimah*sanafatimah2000@gmail.com*sana-12345
+ahmed raza*ahmedraza@gmail.com*123445
